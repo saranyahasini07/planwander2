@@ -1,0 +1,6 @@
+{
+  "name": "Plan & Wander",
+  "description": "Interactive choice-based travel planning platform to discover, compare, choose, and build personalized itineraries across India and international destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
